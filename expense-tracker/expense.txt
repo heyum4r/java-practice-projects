@@ -1,0 +1,5 @@
+100.0,food,eat food ,2023-03-12
+120.0,elctrnonics,buy mobile ,2023-03-12
+10.0,travel,daily commute,2024-03-12
+20.0,food,eat at resturernt,2026-10-22
+100.0,snacks,eat snacks,2026-12-06
